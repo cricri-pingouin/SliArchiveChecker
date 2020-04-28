@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/30 10:53:34.571.pas,D:\Delphi projects\ArchiveTest\filehistounit.pas=</Transaction>
+    <Transaction>2018/12/30 10:53:34.571.dfm,D:\Delphi projects\ArchiveTest\filehistounit.dfm=</Transaction>
+    <Transaction>2018/12/30 10:53:37.660.pas,D:\Delphi projects\ArchiveTest\filehistU2.pas=</Transaction>
+    <Transaction>2018/12/30 10:53:37.660.dfm,D:\Delphi projects\ArchiveTest\filehistU2.dfm=</Transaction>
+    <Transaction>2018/12/30 10:53:54.287.pas,D:\Delphi projects\ArchiveTest\png\zlibpas.pas=</Transaction>
+    <Transaction>2018/12/30 10:53:56.920.pas,D:\Delphi projects\ArchiveTest\png\pnglang.pas=</Transaction>
+    <Transaction>2018/12/30 10:54:00.048.pas,D:\Delphi projects\ArchiveTest\png\pngimage.pas=</Transaction>
+    <Transaction>2018/12/30 10:55:28.414.bdsproj,D:\Delphi projects\ArchiveTest\filetype.bdsproj=D:\Delphi projects\ArchiveTest\archtest.bdsproj</Transaction>
+    <Transaction>2018/12/30 10:56:06.778.bdsproj,D:\Delphi projects\ArchiveTest\archtest.bdsproj=D:\Delphi projects\ArchiveTest\archtest.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
