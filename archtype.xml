@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <filetypes>
 <filetype><header>37 7A BC AF 27 1C</header><description>7-Zip archive</description><clsid>{23170F69-40C1-278A-1000-000110070000}</clsid></filetype>
+<filetype><header>45 52 02 00 00</header><description>Apple ISO 9660/HFS hybrid CD image</description><clsid>{23170F69-40C1-278A-1000-000110E30000}</clsid></filetype>
+<filetype><header>CE FA ED FE</header><description>Apple OS X ABI Mach-O binary</description><clsid>{23170F69-40C1-278A-1000-000110DF0000}</clsid></filetype>
 <filetype><header>60 EA</header><description>ARJ archive</description><clsid>{23170F69-40C1-278A-1000-000110040000}</clsid></filetype>
 <filetype><header>42 5A 68</header><description>BZip2 archive</description><clsid>{23170F69-40C1-278A-1000-000110020000}</clsid></filetype>
 <filetype><header>4D 53 43 46</header><description>CAB Microsoft cabinet</description><clsid>{23170F69-40C1-278A-1000-000110080000}</clsid></filetype>
@@ -12,9 +14,10 @@
 <filetype><header>1F 8B 08</header><description>GZip archive</description><clsid>{23170F69-40C1-278A-1000-000110EF0000}</clsid></filetype>
 <filetype><header>43 44 30 30 31</header><description>ISO archive</description><clsid>{23170f69-40c1-278a-1000-000110e70000}</clsid></filetype>
 <filetype><header>5F 27 A8 89</header><description>Jar archive</description><clsid>{23170F69-40C1-278A-1000-000110010000}</clsid></filetype>
+<filetype><header>7F 45 4C 46</header><description>Linux/Unix Executable and Linking Format (ELF)</description><clsid>{23170f69-40c1-278a-1000-000110DE0000}</clsid></filetype>
 <filetype><header>?? ?? 2D 6C 68</header><description>LZH archive</description><clsid>{23170F69-40C1-278A-1000-000110060000}</clsid></filetype>
-<filetype><header>D0 CF 11 E0 A1 B1 1A E1</header><description>Microsoft OLE compound file</description><clsid>{23170f69-40c1-278a-1000-000110e50000}</clsid></filetype>
-<filetype><header>4D 53 57 49 4D</header><description>Microsoft Windows Imaging file</description><clsid>{23170f69-40c1-278a-1000-000110e60000}</clsid></filetype>
+<filetype><header>D0 CF 11 E0 A1 B1 1A E1</header><description>Microsoft OLE compound</description><clsid>{23170f69-40c1-278a-1000-000110e50000}</clsid></filetype>
+<filetype><header>4D 53 57 49 4D</header><description>Microsoft Windows Imaging</description><clsid>{23170f69-40c1-278a-1000-000110e60000}</clsid></filetype>
 <filetype><header>50 4B 03 04</header><description>PKZIP archive</description><clsid>{23170F69-40C1-278A-1000-000110010000}</clsid></filetype>
 <filetype><header>50 4B 05 06</header><description>PKZIP empty archive</description><clsid>{23170F69-40C1-278A-1000-000110010000}</clsid></filetype>
 <filetype><header>50 4B 07 08</header><description>PKZIP multi-volume archive</description><clsid>{23170F69-40C1-278A-1000-000110010000}</clsid></filetype>
@@ -25,6 +28,7 @@
 <filetype><header>46 57 53</header><description>SWF archive</description><clsid>{23170f69-40c1-278a-1000-000110D70000}</clsid></filetype>
 <filetype><header>75 73 74 61 72</header><description>TAR archive</description><clsid>{23170f69-40c1-278a-1000-000110ee0000}</clsid></filetype>
 <filetype><header>63 6F 6E 65 63 74 69 78</header><description>VHD archive</description><clsid>{23170f69-40c1-278a-1000-000110DC0000}</clsid></filetype>
+<filetype><header>4D 5A</header><description>Windows/DOS executable self-extracting archive</description><clsid>{23170f69-40c1-278a-1000-000110DD0000}</clsid></filetype>
 <filetype><header>78 61 72 21</header><description>XAR eXtensible ARchive</description><clsid>{23170F69-40C1-278A-1000-000110E10000}</clsid></filetype>
 <filetype><header>FD 37 7A 58 5A 00</header><description>XZ archive</description><clsid>{23170F69-40C1-278A-1000-0001100C0000}</clsid></filetype>
 </filetypes>
